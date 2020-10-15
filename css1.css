@@ -1,0 +1,28 @@
+h2 {
+    text-align: center;
+    border-bottom: 10px;
+}
+
+h3 {
+font-size: 15px;
+
+}
+
+article p {
+    padding-top: 15px;
+}
+
+article {
+    background-color:rgb(236, 245, 161);
+    padding: 25px;
+}
+
+ul li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+a {
+    text-decoration-style: none;
+    
+}

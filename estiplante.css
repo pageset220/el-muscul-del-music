@@ -1,0 +1,67 @@
+ .ulti {
+    background-color: rgb(236, 245, 161);
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 15px ;
+    position: relative;
+    padding: 5px;
+    
+       
+}
+
+.ulti3 {
+    background-color: rgb(236, 245, 161);
+    width: 430px;
+    height: 430px;
+    float: left;
+    margin-right: 2%;
+    margin-top: 20px;
+    margin-bottom: 15px ;
+    position: relative;
+    padding: 10px;
+}
+
+.ulti2{
+    background-color: rgb(236, 245, 161);
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin: auto;
+    margin-right: 2%;
+    margin-bottom: 15px ;
+    position: relative;
+    padding: 5px;
+}
+
+article
+
+img{
+    height: 200px;
+    width: 200px;
+    overflow: inherit;
+    display: block;
+    margin: auto;
+    
+}
+.article1{
+    padding: 10px;
+    background-color: rgb(236, 245, 161);
+    margin-bottom: 20px;
+
+}
+article{
+    align-items: center;
+    margin: auto;
+}
+
+.rar {
+    background-color: rgb(236, 245, 161) ;
+    padding: 25px;
+}
+.UNIC{
+    background-color: rgb(236, 245, 161) ;
+    padding: 25px;
+    margin-top: 20PX;
+}

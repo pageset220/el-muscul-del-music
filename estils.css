@@ -1,0 +1,44 @@
+
+.main .articles {
+    width: 68%;
+    margin-right: 2%;
+    float: left;
+    box-sizing: content-box;
+    
+}
+.main .articles article {
+    padding: 20px;
+    background-color: rgb(236, 245, 161);
+    margin-bottom: 20px;
+
+}
+aside {
+    width: 30%;
+    background-color:rgb(247, 96, 91);
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.botó a {
+
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    display: block;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    
+}
+
+.botó a:hover {
+    background-color: rgb(240, 154, 154);
+}
+
+
+article h2 {
+    font-size:20px;
+}
+
+.llarg{
+ width: 147%;
+ 
+}

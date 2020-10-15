@@ -1,0 +1,40 @@
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    clear: both;
+    padding: 10px 0px; 
+}
+
+.main {
+    text-align: justify;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a div img {
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin-right: 5.5%;
+}
+
+header {
+    width: 90%;
+    margin: 20px auto;
+    max-width: 2000px;
+} 
+
+.main, footer {
+    width: 90%;
+    margin: 20px auto;
+    max-width: 2000px;
+  }
+
+body {
+    background-color: rgb(40, 153, 245);
+}

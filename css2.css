@@ -1,0 +1,14 @@
+article {
+
+    padding: 20px;
+    background-color: rgb(236, 245, 161);
+    margin-bottom: 20px;
+    box-sizing: content-box;
+
+}
+
+img{
+    padding-left: 25%;
+    display: block;
+   
+}
